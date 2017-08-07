@@ -3,3 +3,15 @@ body{
 	color: blue;
 	font-family: Arial;
 }
+
+#nombre{
+	color: #e1ff10;
+}
+
+#nombre:hover{
+	background-color: green;
+}
+
+input:focus{
+	background-color: blue;
+}
